@@ -2,7 +2,7 @@
 title: "Generalized Shape Expansion-Based Motion Planning in Three-Dimensional Obstacle-Cluttered Environment"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: ''
 date: 2020-07-01
 venue: 'Journal of Guidance, Control, and Dynamics '
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
